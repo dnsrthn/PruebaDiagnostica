@@ -17,7 +17,6 @@ public abstract class Empleado {
         System.out.println("trabajando " + horas + " horas.");
     }
 
-    // getters y setters
     public String getNombre() {
         return nombre;
     }
