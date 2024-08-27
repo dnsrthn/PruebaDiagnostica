@@ -36,5 +36,5 @@ grupos implementarán ejercicios de POO y crearán un menú para ejecutar los ej
 
 ## contacto
 
-- **Ethan Juarez**: [correo](mailto:ejuarez-2020269@kinal.edu.gt)
+- **Ethan Juarez**: [correo](mailto:ejuarez-2020269@kinal.edu.gt) **Scrum Master**
 - **Diego Santandrea**: [correo](mailto:dsantandrea-2021518@kinal.edu.gt)
