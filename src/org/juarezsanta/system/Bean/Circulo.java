@@ -15,4 +15,10 @@ public class Circulo extends Forma {
     public void setRadio(double radio) {
         this.radio = radio;
     }
+ 
+    @Override
+    public double calcularArea() {
+        return Math.PI * radio * radio;
+    }
 }
+
