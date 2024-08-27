@@ -34,4 +34,18 @@ public abstract class Dispositivo {
     public void setAnio(int anio) {
         this.anio = anio;
     }
+
+    public void mostrarInformacion(){
+            System.out.println("a");
+            System.out.println("marca"+ marca);
+            System.out.println("modelo"+ modelo  );
+            System.out.println("año"+ anio);
+        }
+    
+        public abstract void encender();
+    
+        public  void encender(int voltaje){
+            System.out.println("el dispositivo prende con este voltaje"+ voltaje + "V");
+        }
+    
 }
