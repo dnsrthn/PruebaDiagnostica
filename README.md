@@ -12,10 +12,9 @@ grupos implementarán ejercicios de POO y crearán un menú para ejecutar los ej
   - y los métodos necesarios para gestionar la información del empleado.
 
 - **Ejercicio 2: Forma**
-  - **Responsable:** Ethan Juarez y Diego Santandrea
-  - **Descripción:** en este ejercicio, Ethan actuará como scrum master y se encargará de gestionar el proceso
-  -  de desarrollo. aunque no participará directamente en la codificación, supervisará y organizará las tareas
-  -  relacionadas con el desarrollo de una clase que represente formas geométricas su responsabilidad será garantizar
+  - **Responsable:** Natareno
+  - **Descripción:** en este ejercicio  encargará de gestionar el proceso
+  -  de desarrollo de una clase que represente formas geométricas su responsabilidad será garantizar
   -   que el equipo siga las mejores prácticas ágiles y se mantenga en línea con el cronograma.
 
 - **Ejercicio 3: Dispositivo**
@@ -37,5 +36,5 @@ grupos implementarán ejercicios de POO y crearán un menú para ejecutar los ej
 
 ## contacto
 
-- **Ethan Juarez**: [correo](mailto:ejuarez-2020269@kinal.edu.gt)
+- **Ethan Juarez**: [correo](mailto:ejuarez-2020269@kinal.edu.gt) **Scrum Master**
 - **Diego Santandrea**: [correo](mailto:dsantandrea-2021518@kinal.edu.gt)
