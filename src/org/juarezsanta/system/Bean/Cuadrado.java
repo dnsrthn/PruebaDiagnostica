@@ -26,4 +26,8 @@ public class Cuadrado extends Forma {
         this.altura = altura;
     }
 
+    @Override
+    public double calcularArea() {
+        return Math.pow(altura, base);
+    }
 }
